@@ -9,19 +9,19 @@ int main(){
 
     x = 10;
     i = x;
-    printf("numero %d", i);
+    printf("numero %d\n", i);
     x = 50;
     i = x;
-    printf("numero %d", i);
+    printf("numero %d\n", i);
     x = 10;
     i = x;
-    printf("numero %d", i);
+    printf("numero %d\n", i);
     x = 50;
     i = x;
-    printf("numero %d", i);
+    printf("numero %d\n", i);
     x = 10;
     i = x;
-    printf("numero %d", i);
+    printf("numero %d\n", i);
 
 
     // k=0:::
